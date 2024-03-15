@@ -14,7 +14,7 @@ Aplicação Java com container para exemplo
 #### Clone
 
 ```
-https://github.com/TiagoAlcan/fiap-checkpoint1.git
+git clone (https://github.com/toureir/fiap-checkpoint1.git)
 ```
 
 ## Execução
@@ -110,5 +110,5 @@ http://localhost:8080/ping
 
 ## Referencias
 
- - [GitHub](https://github.com/TiagoAlcan)
- - [DockerHub](https://hub.docker.com/u/tiagoalcan)
+ - [GitHub](https://github.com/toureir/fiap-checkpoint1)
+ - [DockerHub](https://hub.docker.com/u/loureiroaguiar)
